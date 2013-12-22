@@ -1,0 +1,16 @@
+{
+    "name": "Verber/graph-of-westeros",
+    "description": "Crawler that will create Neo4j graph of characters from A Song of Ice and Fire by G.R.R. Martin. Based on http://awoiaf.westeros.org/",
+    "license": "CC-BY-SA",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Ivan Mosiev",
+            "email": "i.k.mosev@gmail.com"
+        }
+    ],
+    "require": {
+        "everyman/neo4jphp": "dev-master",
+        "cilex/cilex": "1.0.*@dev"
+    }
+}
